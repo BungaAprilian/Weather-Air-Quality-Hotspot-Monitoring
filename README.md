@@ -1,6 +1,6 @@
 # Indonesia Environmental Data Warehouse
 
-Data warehouse mini yang mengumpulkan **cuaca**, **kualitas udara**, dan **titik panas kebakaran**
+Data warehouse mini yang mengumpulkan **cuaca**, **kualitas udara**, dan **titik panas**
 untuk **15 kota besar Indonesia**, lalu menampilkannya di dashboard Streamlit (termasuk peta hotspot).
 
 ## Sumber data
